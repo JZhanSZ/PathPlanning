@@ -1,5 +1,5 @@
 # Path Planning
-A collection of implementations of various robot path planning algorithms
+A collection of implementations of various path planning algorithms
 
 # Functioning:
 * None
