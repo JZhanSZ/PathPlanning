@@ -5,7 +5,6 @@ A collection of implementations of various robot path planning algorithms
 * None
 
 # Currently working on:
-* A*
 * Probabilistic Roadmaps (PRM)
 * Informed RRT*
 * Batch Informed Trees (BIT*)
