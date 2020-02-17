@@ -4,7 +4,7 @@ A collection of implementations of various path planning algorithms
 # Functioning:
 * None
 
-# Currently working on:
+# TODO:
 * Probabilistic Roadmaps (PRM)
 * Rapidly-exploring Random Trees (RRT)
 * RRT*
