@@ -1,8 +1,6 @@
 # Path Planning
 A collection of implementations of various path planning algorithms
 
-# Functioning:
-* None
 
 # TODO:
 * Probabilistic Roadmaps (PRM)
